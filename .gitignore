@@ -19,7 +19,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+README-template.md
 # testing
 /coverage
 
